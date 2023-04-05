@@ -9,5 +9,7 @@ In the databases we have 4 databases with information on:
 - Correct answers of the exams
 - Information about the exams
 We use those databases to get an analysis.
+The "query" file contains the SQL query
 
 Databases extracted from the internet
+
